@@ -5,4 +5,8 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <!--navigation drawer-->
+    <string name="navbar_title">Plus Mobile Apps</string>
+    <string name="instant_apps">Instant Apps</string>
 </resources>
