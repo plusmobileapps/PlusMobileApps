@@ -7,8 +7,8 @@ android {
 
     defaultConfig {
         applicationId "com.plusmobileapps.plusmobileapps"
-        minSdkVersion 23
-        targetSdkVersion 26
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.minSdkVersion
         versionCode 1
         versionName "1.0"
 
